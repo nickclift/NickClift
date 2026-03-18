@@ -1,6 +1,6 @@
 # What Claude Can Do on Your Phone
 
-Claude is available on mobile through the **Claude app** (iOS and Android) and via your mobile browser. Here's what you can do:
+Claude is available on mobile through the **Claude app** (iOS and Android) and via your mobile browser. The Claude app also includes **Claude Code** for software engineering tasks. Here's what you can do:
 
 ## Conversations
 - Chat with Claude in natural language
