@@ -36,8 +36,7 @@ Claude is available on mobile through the **Claude app** (iOS and Android) and v
 - Use your phone's built-in voice-to-text to speak your messages to Claude
 
 ## Limitations on Mobile
-- Claude Code (the CLI tool) is not available on mobile — it requires a desktop/laptop environment
-- File system access is limited to what you share directly in the conversation
+- File system access is limited to what your terminal environment allows
 - No direct integration with phone apps (calls, contacts, etc.)
 
 ## Getting Started
